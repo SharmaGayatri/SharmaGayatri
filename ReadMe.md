@@ -10,7 +10,7 @@ I'm [Gayatri Sharma](https://sharmagayatri.me/) a Full Stack Web Developer. I am
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&link=https://github.com/ftrasvent)](https://github.com/SharmaGayatri)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SharmaGayatri.visitor-badge)
 
-🚀 I'm starting in my Software Development career.
+🚀 I'm starting my Software Development career.
 
 ✔️ My current job is a to learn new skills.
 
