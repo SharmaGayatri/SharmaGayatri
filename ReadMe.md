@@ -29,3 +29,6 @@ I'm [Gayatri Sharma](https://sharmagayatri.me/) a Full Stack Web Developer. I am
 <h1 style="margin-top:20px;">Github Sreaks 🔥</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharmaGayatri&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
