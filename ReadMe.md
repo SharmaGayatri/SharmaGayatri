@@ -10,7 +10,7 @@ I'm [Gayatri Sharma](https://sharmagayatri.me/) a Full Stack Web Developer. I am
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&link=https://github.com/ftrasvent)](https://github.com/SharmaGayatri)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SharmaGayatri.visitor-badge)
 
-🚀 I'm starting in my Software Development career.
+🚀 I'm starting my Software Development career.
 
 ✔️ My current job is a to learn new skills.
 
@@ -31,4 +31,8 @@ I'm [Gayatri Sharma](https://sharmagayatri.me/) a Full Stack Web Developer. I am
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharmaGayatri&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ## 😂 Here is a random joke that'll make you laugh!
+<<<<<<< HEAD
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+=======
+![Jokes Card](https://readme-jokes.vercel.app/api)
+>>>>>>> d113f9b7c9a3dd6044d0dfbef871cea32437c537
