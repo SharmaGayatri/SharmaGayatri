@@ -1,7 +1,7 @@
 # Namaskar 🙏 Welcome to Gayatri's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 
-I'm [Gayatri Sharma](https://sharmagayatri.me/) a Full Stack Web Developer. I am always looking for an opportunity to code, design and learn new skills.
+I'm [Gayatri Sharma](https://sharmagayatri.me/) a Web Developer. I am always looking for an opportunity to code, design and learn new skills.
 
 ## 📫 Reach me out!
 
